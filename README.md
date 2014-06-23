@@ -1,5 +1,5 @@
 meepo
 =====
 
-4 man army
+4 man army\n
 Noi suntem romani!
